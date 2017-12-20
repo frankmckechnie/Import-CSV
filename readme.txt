@@ -1,6 +1,6 @@
 
 
-Welcome: scripts made by frank mckechnie with some help form previous projects.
+Welcome: made by Frank Mckechnie
 --------------------------------------------------------------------------------------
 
 Database settings
